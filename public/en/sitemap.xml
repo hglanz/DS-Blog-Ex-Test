@@ -3,79 +3,108 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/showcase/</loc>
-    <lastmod>2016-12-05T14:41:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="/sv/showcase/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/showcase/"
-                />
+    <loc>https://dazzling-lichterman-6802d7.netlify.com/about/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2016-12-05T14:41:00+01:00</lastmod>
+    <loc>https://dazzling-lichterman-6802d7.netlify.com/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="/sv/"
+                href="https://dazzling-lichterman-6802d7.netlify.com/sv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://dazzling-lichterman-6802d7.netlify.com/"
                 />
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://dazzling-lichterman-6802d7.netlify.com/showcase/</loc>
+    <lastmod>2016-12-05T14:41:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="https://dazzling-lichterman-6802d7.netlify.com/sv/showcase/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dazzling-lichterman-6802d7.netlify.com/showcase/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dazzling-lichterman-6802d7.netlify.com/post/</loc>
     <lastmod>2016-04-24T02:50:28+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="/sv/post/"
+                href="https://dazzling-lichterman-6802d7.netlify.com/sv/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/post/"
+                href="https://dazzling-lichterman-6802d7.netlify.com/post/"
                 />
   </url>
   
   <url>
-    <loc>/2016/04/24/what-is-hugo/</loc>
+    <loc>https://dazzling-lichterman-6802d7.netlify.com/2016/04/24/what-is-hugo/</loc>
     <lastmod>2016-04-24T02:50:28+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/2016/04/21/introduction/</loc>
+    <loc>https://dazzling-lichterman-6802d7.netlify.com/2016/04/21/introduction/</loc>
     <lastmod>2016-04-21T02:50:28+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="/sv/2016/12/05/introduction/"
+                href="https://dazzling-lichterman-6802d7.netlify.com/sv/2016/12/05/introduction/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/2016/04/21/introduction/"
+                href="https://dazzling-lichterman-6802d7.netlify.com/2016/04/21/introduction/"
                 />
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://dazzling-lichterman-6802d7.netlify.com/2015/07/23/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dazzling-lichterman-6802d7.netlify.com/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/topics/</loc>
+    <loc>https://dazzling-lichterman-6802d7.netlify.com/tags/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dazzling-lichterman-6802d7.netlify.com/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dazzling-lichterman-6802d7.netlify.com/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dazzling-lichterman-6802d7.netlify.com/topics/</loc>
     <priority>0</priority>
   </url>
   

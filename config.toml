@@ -1,5 +1,5 @@
 # hostname (and path) to the root eg. https://appernetic.github.io/
-baseurl = "/"
+baseurl = "https://dazzling-lichterman-6802d7.netlify.com/"
 
 # Remark if you want to disable multilingual support.
 DefaultContentLanguage = "en"
@@ -28,7 +28,7 @@ paginate = 10
 paginatePath = "page"
 
 # Enable Disqus integration
-disqusShortname = "shortname"
+disqusShortname = "https-pensive-bartik-e3e658-netlify-com-1"
 
 
 [permalinks]
@@ -49,7 +49,7 @@ email = "yourname@example.com"
 
 [params.popover]
 # This is a highly configurable popover form.
-enablepopover = true #enable or disable popover: true/false.
+enablepopover = false #enable or disable popover: true/false.
 posturl = "https://zapier.com/hooks/catch/1227563/" # Your zapier post hook.
 headerimage = "//placehold.it/1000x600"
 expirecookie = 5 #show it again after number of days to visitors that has not subscribed.
@@ -71,15 +71,15 @@ optin = true #opt-in: true/false
 # default, flatly, journal,  lumen, paper, readable, sandstone, simplex,
 # slate, spacelab, superhero, united, yeti.
 
-bootswatchtheme = "paper"
+bootswatchtheme = "darkly"
 
 # menu for changing language. This changes languages with js and stores the choice with the help of JavaScript in a Cookie. Then the path is rewritten with pathnamereplace.js. The name of the md files needs to have the same name for each language abbreviation to work correctly. Example: showcase.en.md and showcase.sv.md. It only works if DefaultContentLanguageInSubdir = true
 switchlang = false
 # You can use markdown here.
 BrandImage = "http://blog.appernetic.io/images/apperneticlogo.png" #top header brand image.
-brand = "My awsome blog" # brand image alt text.
-topline = "few words about your site"
-footline = "code with <i class='fa fa-heart'></i>"
+brand = "Teach Data Science" # brand image alt text.
+topline = "A roadmap to recent developments in teaching data science"
+footline = "Designed and written in California and Massachusetts."
 
 customJS = []
 customCSS = ["/css/style_custom.css"]
@@ -102,12 +102,12 @@ highlight = "default"
 googleAnalytics = "Your Google Analytics tracking code"
 
 # Sidebar social links.
-github = "Myprofile" # Your Github profile ID
+github = "" # Your Github profile ID
 bitbucket = "" # Your Bitbucket profile ID
 linkedin = "" # Your LinkedIn profile ID (from public URL)
-googleplus = "Myprofile" # Your Google+ profile ID
-facebook = "Myprofile" # Your Facebook profile ID
-twitter = "Myprofile" # Your Twitter profile ID
+googleplus = "" # Your Google+ profile ID
+facebook = "" # Your Facebook profile ID
+twitter = "" # Your Twitter profile ID
 youtube = ""  # Your Youtube channel ID
 flattr = ""  # populate with your flattr uid
 
@@ -140,8 +140,8 @@ extensionmask = []
 [Languages.en]
 languageCode = "en"
 weight = 1
-copyright = "(c) 2016 Copyright my blog"
-title = "My blog" # Site title
+copyright = "(c) 2019 Copyright Teach Data Science"
+title = "Teach Data Science" # Site title
 
 [[Languages.en.menu.main]]
 name = "Blog"
@@ -154,14 +154,14 @@ url = "/post/"
 name = "About"
 weight = 1
 identifier = ""
-url = "https://appernetic.io/app/#/about"
+url = "/about/"
 pre = "<i class='fa fa-road'></i>"
 
 [[Languages.en.menu.main]]
-name = "Dashboard"
+name = "Tags"
 identifier = ""
 weight = 3
-url = "https://appernetic.io/app/"
+url = "/tags/"
 
 [[Languages.en.menu.footer]] # add  links to the bottom right corner.
 name = "Disclaimer"
