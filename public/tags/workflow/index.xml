@@ -7,10 +7,99 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>(c) 2019 Copyright Teach Data Science</copyright>
-    <lastBuildDate>Tue, 29 May 2018 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dazzling-lichterman-6802d7.netlify.com/tags/workflow/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Five Quick Tips for Coding in the Classroom</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/07/04/teaching_programming_tips/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/07/04/teaching_programming_tips/</guid>
+      <description>IntroHello!It’s my distinct pleasure to be guest-blogging for you today! My name is Kelly Bodwin and I’m an Assistant Professor of Statistics at Cal Poly, San Luis Obispo. In my two years at Cal Poly I have taught
+Stat 218 - An introductory course for non-majorsStat 419 - An upper-level course in multivariate analysisStat 331 - Our department’s introductory R classIn all of these courses, I make extensive use of R.</description>
+    </item>
+    
+    <item>
+      <title>Using Shiny in the Classroom</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/28/shiny2/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/28/shiny2/</guid>
+      <description>Shiny RecapYesterday we introduced R Shiny and how it allows you to build interactive web applications straight from R. We saw a few examples highlighting the wondrous interactivtiy of exploratory data analysis, data visualization, and data analysis that it enables. If you didn’t catch yesterday’s post, check it out at https://teachdatascience.com/shiny1/ and be sure to go play around with some Shiny apps at RStudio’s gallery at https://shiny.</description>
+    </item>
+    
+    <item>
+      <title>An Introduction to R Shiny</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/27/shiny1/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/27/shiny1/</guid>
+      <description>What is R Shiny?Straight from RStudio’s wonderful introduction, Shiny is an R package that makes it easy to build interactive web applications straight from R. You can host standalone apps on a webpage or embed them in R Markdown documents or build dashboards. Not only does Shiny allow you to build these web apps from R, but it enables their construction using only R code. Knowledge of HTML and web development is not required at all, though it can be used to enhance your apps in numerous ways.</description>
+    </item>
+    
+    <item>
+      <title>Pair Programming for Data Science and Statistics</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/20/pairprogramming/</link>
+      <pubDate>Wed, 20 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/20/pairprogramming/</guid>
+      <description>Pair programming is a technique from software development where two programmers work in tandem to code. One is designated the driver, responsible for typing, while the other, often called the navigator or observer reviews the code and provides a high-level overview of the task.
+Photo credit: Esti Alvarez
+Pair programming has been thought to lead to better code, more enjoyable coding, and higher productivity, with some research findings supporting those conclusions (see some of the references at the end of this entry).</description>
+    </item>
+    
+    <item>
+      <title>Github Classroom</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/13/gitclass/</link>
+      <pubDate>Wed, 13 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/13/gitclass/</guid>
+      <description>If you have been reading along in the blog, you’ve noticed the last two entries describing GitHub and GitHub in R. And certainly, we continue to advocate teaching students to use GitHub as an integral part of their data science workflow. And GitHub may be the perfect place to store student projects either as public or private repositories.
+But using GitHub to navigate a dozen homework assignments with 50 students can become logistically difficult.</description>
+    </item>
+    
+    <item>
+      <title>Using GitHub in R</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/12/githubinr/</link>
+      <pubDate>Tue, 12 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/12/githubinr/</guid>
+      <description>Once you get the hang of using Projects in RStudio, you may be inclined to collaborate with others on the same project. If so, you will want to set up a Project that links directly to GitHub. By having your project on GitHub (and regularly saving it / updating it on GitHub), your collaborators will always have access to the most up to date analysis information.
+Previous posts have described working with R Projects and working with GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Github for Fun and Profit</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/11/github/</link>
+      <pubDate>Mon, 11 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/11/github/</guid>
+      <description>How do we help students carry out data analysis workflows that are comprehensible and reproducible?
+The 2018 NASEM “Data Science for Undergraduates” report enunciated the importance of workflow and reproducibility as a key component of data acumen.
+“Documenting and sharing workflows enable others to understand how data have been used and refined and what steps were taken in an analysis process. This can increase the confidence in results and improve trust in the process as well as enable reuse of analyses or results in a meaningful way” (NASEM 2019, page 2-12).</description>
+    </item>
+    
+    <item>
+      <title>Watching an expert work through a data analysis using the tidyverse</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/04/screencast/</link>
+      <pubDate>Mon, 04 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/04/screencast/</guid>
+      <description>Watching an expert work through a data analysis using the tidyverseTeaching Data Science is challenging since it involves teaching the entire data science analysis cycle. While it’s helpful for students to experience this process, they can often feel at sea in terms of the decisions they need to make and the iterative process of exploration, modeling, summarization.
+We’ve been using the data science cycle promulgated by Hadley Wickham and Garrett Grolemund (both from RStudio) that was published in their excellent book: R for Data Science, https://r4ds.</description>
+    </item>
+    
+    <item>
+      <title>The Tidyverse</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/03/tidyverse/</link>
+      <pubDate>Sun, 03 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/03/tidyverse/</guid>
+      <description>What is the Tidyverse?The tidyverse is a coherent system of R packages for data wrangling, exploration and visualization that share a common design philosophy. These packages are intended to make statisticians and data scientists more productive by guiding them through workflows that facilitate communication, and result in reproducible work products. Unpacking the tidyverse, all that it means and contains, could easily take a dedicated book or blog in itself.</description>
+    </item>
     
     <item>
       <title>Getting Started With R Markdown</title>

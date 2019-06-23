@@ -7,10 +7,107 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>(c) 2019 Copyright Teach Data Science</copyright>
-    <lastBuildDate>Sun, 27 May 2018 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jul 2018 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="https://dazzling-lichterman-6802d7.netlify.com/tags/regression/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Statistics at Google Scale</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/07/28/googlescale/</link>
+      <pubDate>Sat, 28 Jul 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/07/28/googlescale/</guid>
+      <description>XXMaps are an important way of displaying data.
+The leaflet package in R provides access to the Leaflet Javascript libraries (http://leafletjs.com), an open-source mechanism to create interactive maps. The leaflet package (https://rstudio.github.io/leaflet/) provides an interface within R that allows for composing maps using map tiles (e.g., from OpenStreetMap, https://www.openstreetmap.org/#map=5/38.007/-95.844) that can be annotated with markers, lines, popups.
+Here’s a simple example where data from higher education institutions from within the Five College Consortium in Western Massachusetts is mapped.</description>
+    </item>
+    
+    <item>
+      <title>Algorithmic interpretability</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/07/25/interpretability/</link>
+      <pubDate>Wed, 25 Jul 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/07/25/interpretability/</guid>
+      <description>XXMaps are an important way of displaying data.
+The leaflet package in R provides access to the Leaflet Javascript libraries (http://leafletjs.com), an open-source mechanism to create interactive maps. The leaflet package (https://rstudio.github.io/leaflet/) provides an interface within R that allows for composing maps using map tiles (e.g., from OpenStreetMap, https://www.openstreetmap.org/#map=5/38.007/-95.844) that can be annotated with markers, lines, popups.
+Here’s a simple example where data from higher education institutions from within the Five College Consortium in Western Massachusetts is mapped.</description>
+    </item>
+    
+    <item>
+      <title>AP CS Principles (and Data as a Big Idea)</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/07/22/apcsprinciples/</link>
+      <pubDate>Sun, 22 Jul 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/07/22/apcsprinciples/</guid>
+      <description>XXMaps are an important way of displaying data.
+The leaflet package in R provides access to the Leaflet Javascript libraries (http://leafletjs.com), an open-source mechanism to create interactive maps. The leaflet package (https://rstudio.github.io/leaflet/) provides an interface within R that allows for composing maps using map tiles (e.g., from OpenStreetMap, https://www.openstreetmap.org/#map=5/38.007/-95.844) that can be annotated with markers, lines, popups.
+Here’s a simple example where data from higher education institutions from within the Five College Consortium in Western Massachusetts is mapped.</description>
+    </item>
+    
+    <item>
+      <title>Comparing SAS, R, and Python</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/07/18/sasrpython/</link>
+      <pubDate>Wed, 18 Jul 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/07/18/sasrpython/</guid>
+      <description>XXMaps are an important way of displaying data.
+The leaflet package in R provides access to the Leaflet Javascript libraries (http://leafletjs.com), an open-source mechanism to create interactive maps. The leaflet package (https://rstudio.github.io/leaflet/) provides an interface within R that allows for composing maps using map tiles (e.g., from OpenStreetMap, https://www.openstreetmap.org/#map=5/38.007/-95.844) that can be annotated with markers, lines, popups.
+Here’s a simple example where data from higher education institutions from within the Five College Consortium in Western Massachusetts is mapped.</description>
+    </item>
+    
+    <item>
+      <title>more Less Volume More Creativity (R vs. Python)</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/07/14/data8/</link>
+      <pubDate>Sat, 14 Jul 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/07/14/data8/</guid>
+      <description>Upon completion of CS/STAT/INFO C8, students should be able to:
+Write correct small programs that manipulate and combine data sets and carry out iterative procedures.Extend a program with multiple functions so that it runs correctly with additional functionality.Calculate specified statistics of a given dataset.Identify the sources of randomness in an experiment.Formulate a null hypothesis that relates to a given question, which can be assessed using a statistical test.</description>
+    </item>
+    
+    <item>
+      <title>forcats and other anagrams</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/07/09/forcats/</link>
+      <pubDate>Mon, 09 Jul 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/07/09/forcats/</guid>
+      <description>forcatsMaps are an important way of displaying data.
+The leaflet package in R provides access to the Leaflet Javascript libraries (http://leafletjs.com), an open-source mechanism to create interactive maps. The leaflet package (https://rstudio.github.io/leaflet/) provides an interface within R that allows for composing maps using map tiles (e.g., from OpenStreetMap, https://www.openstreetmap.org/#map=5/38.007/-95.844) that can be annotated with markers, lines, popups.
+Here’s a simple example where data from higher education institutions from within the Five College Consortium in Western Massachusetts is mapped.</description>
+    </item>
+    
+    <item>
+      <title>Refactoring for fun and profit</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/07/07/refactoring/</link>
+      <pubDate>Sat, 07 Jul 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/07/07/refactoring/</guid>
+      <description>XXMaps are an important way of displaying data.
+The leaflet package in R provides access to the Leaflet Javascript libraries (http://leafletjs.com), an open-source mechanism to create interactive maps. The leaflet package (https://rstudio.github.io/leaflet/) provides an interface within R that allows for composing maps using map tiles (e.g., from OpenStreetMap, https://www.openstreetmap.org/#map=5/38.007/-95.844) that can be annotated with markers, lines, popups.
+Here’s a simple example where data from higher education institutions from within the Five College Consortium in Western Massachusetts is mapped.</description>
+    </item>
+    
+    <item>
+      <title>Creating tutorials in R using learnr</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/07/02/learnr/</link>
+      <pubDate>Mon, 02 Jul 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/07/02/learnr/</guid>
+      <description>XXMaps are an important way of displaying data.
+The leaflet package in R provides access to the Leaflet Javascript libraries (http://leafletjs.com), an open-source mechanism to create interactive maps. The leaflet package (https://rstudio.github.io/leaflet/) provides an interface within R that allows for composing maps using map tiles (e.g., from OpenStreetMap, https://www.openstreetmap.org/#map=5/38.007/-95.844) that can be annotated with markers, lines, popups.
+Here’s a simple example where data from higher education institutions from within the Five College Consortium in Western Massachusetts is mapped.</description>
+    </item>
+    
+    <item>
+      <title>Guidelines for Assessment and Instruction in Statistics Education</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/06/gaise/</link>
+      <pubDate>Wed, 06 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/06/gaise/</guid>
+      <description>Guidelines for Assessment and Instruction in Statistics EducationThe American Statistical Association has placed a priority on how best to teach statistics and data science. The Guidelines for Assessment and Instruction in Statistics Education (GAISE) reports have served a key role in guiding instructors and institutions in their pedagogical choices.
+Two GAISE reports have been written: one focused on statistics at the PreK-12 level and another, revised in 2016, focused on college level courses.</description>
+    </item>
     
     <item>
       <title>Data Science for Undergraduates</title>

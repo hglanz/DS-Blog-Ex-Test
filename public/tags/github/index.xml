@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>github on Teach Data Science</title>
+    <link>https://dazzling-lichterman-6802d7.netlify.com/tags/github/</link>
+    <description>Recent content in github on Teach Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>(c) 2019 Copyright Teach Data Science</copyright>
+    <lastBuildDate>Wed, 13 Jun 2018 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="https://dazzling-lichterman-6802d7.netlify.com/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Github Classroom</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/13/gitclass/</link>
+      <pubDate>Wed, 13 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/13/gitclass/</guid>
+      <description>If you have been reading along in the blog, you’ve noticed the last two entries describing GitHub and GitHub in R. And certainly, we continue to advocate teaching students to use GitHub as an integral part of their data science workflow. And GitHub may be the perfect place to store student projects either as public or private repositories.
+But using GitHub to navigate a dozen homework assignments with 50 students can become logistically difficult.</description>
+    </item>
+    
+    <item>
+      <title>Using GitHub in R</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/12/githubinr/</link>
+      <pubDate>Tue, 12 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/12/githubinr/</guid>
+      <description>Once you get the hang of using Projects in RStudio, you may be inclined to collaborate with others on the same project. If so, you will want to set up a Project that links directly to GitHub. By having your project on GitHub (and regularly saving it / updating it on GitHub), your collaborators will always have access to the most up to date analysis information.
+Previous posts have described working with R Projects and working with GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Github for Fun and Profit</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/11/github/</link>
+      <pubDate>Mon, 11 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/11/github/</guid>
+      <description>How do we help students carry out data analysis workflows that are comprehensible and reproducible?
+The 2018 NASEM “Data Science for Undergraduates” report enunciated the importance of workflow and reproducibility as a key component of data acumen.
+“Documenting and sharing workflows enable others to understand how data have been used and refined and what steps were taken in an analysis process. This can increase the confidence in results and improve trust in the process as well as enable reuse of analyses or results in a meaningful way” (NASEM 2019, page 2-12).</description>
+    </item>
+    
+    <item>
+      <title>GitHub and RStudio Projects - Test?</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/05/15/projectsgit/</link>
+      <pubDate>Tue, 15 May 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/05/15/projectsgit/</guid>
+      <description>Once you get the hang of using Projects in RStudio, you may be inclined to collaborate with others on the same project. If so, you will want to set up a Project that links directly to GitHub. By having your project on GitHub (and regularly saving it / updating it on GitHub), your collaborators will always have access to the most up to date analysis information.
+Previous blogs have described working with R Projects (link to that blog) and working with GitHub (link to that blog).</description>
+    </item>
+    
+  </channel>
+</rss>

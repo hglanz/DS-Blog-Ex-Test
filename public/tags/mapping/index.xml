@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mapping on Teach Data Science</title>
+    <link>https://dazzling-lichterman-6802d7.netlify.com/tags/mapping/</link>
+    <description>Recent content in mapping on Teach Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>(c) 2019 Copyright Teach Data Science</copyright>
+    <lastBuildDate>Sun, 10 Jun 2018 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="https://dazzling-lichterman-6802d7.netlify.com/tags/mapping/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Leaflet for mapping</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/10/leaflet/</link>
+      <pubDate>Sun, 10 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/10/leaflet/</guid>
+      <description>Maps are an important way of displaying data. Leaflet Javascript libraries (http://leafletjs.com) are an an open-source mechanism to create interactive maps. The leaflet package (https://rstudio.github.io/leaflet/) provides an interface within R that allows for composing maps using map tiles (e.g., from OpenStreetMap, https://www.openstreetmap.org/#map=5/38.007/-95.844) that can be annotated with markers, lines, popups.
+Here’s a simple example where data from higher education institutions from within the Five College Consortium in Western Massachusetts is mapped.</description>
+    </item>
+    
+  </channel>
+</rss>

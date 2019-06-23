@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reports on Teach Data Science</title>
+    <link>https://dazzling-lichterman-6802d7.netlify.com/tags/reports/</link>
+    <description>Recent content in reports on Teach Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>(c) 2019 Copyright Teach Data Science</copyright>
+    <lastBuildDate>Tue, 19 Jun 2018 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="https://dazzling-lichterman-6802d7.netlify.com/tags/reports/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Practical Data Science: an introduction to the PeerJ collection</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/19/peerj/</link>
+      <pubDate>Tue, 19 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/19/peerj/</guid>
+      <description>In 2017, Jenny Bryan and Hadley Wickham published the “Practical Data Science for Stats” PeerJ collection. (The papers were also published in a special issue of The American Statistician.)
+The “Practical Data Science for Stats” Collection contains a series of short papers focused on the practical side of data science workflows and statistical analysis.
+There are many aspects of day-to-day data analytical work that are almost absent from the conventional statistics literature and curriculum.</description>
+    </item>
+    
+    <item>
+      <title>Roundtable on Data Science Post Secondary Education</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/09/dsert/</link>
+      <pubDate>Sat, 09 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/09/dsert/</guid>
+      <description>Roundtable on Data Science Postsecondary EducationThe National Academies of Science, Engineering, and Medicine Roundtable on Data Science Postsecondary Education was convened in 2016 to work to develop a shared vision for the emerging field of data science. The Roundtable, which consists of representatives from industry, government, and academia meets quarterly for a day to discuss best practices, ways to support the growing community, and approaches to help advance data science education.</description>
+    </item>
+    
+  </channel>
+</rss>

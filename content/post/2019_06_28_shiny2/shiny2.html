@@ -1,0 +1,78 @@
+---
+title: "Using Shiny in the Classroom"
+author: "Hunter Glanz"
+date: '2018-06-28'
+output:
+  html_document:
+    df_print: paged
+tags:
+- R Shiny
+- workflow
+- visualization
+- rstudio
+categories: R
+---
+
+
+
+<div id="shiny-recap" class="section level2">
+<h2>Shiny Recap</h2>
+<center>
+<div class="figure">
+<img src="/post/shiny2/shinyhex.jpg" />
+
+</div>
+</center>
+<p>Yesterday we introduced <a href="https://shiny.rstudio.com/">R Shiny</a> and how it allows you to build interactive web applications straight from R. We saw a few examples highlighting the wondrous interactivtiy of exploratory data analysis, data visualization, and data analysis that it enables. If you didn’t catch yesterday’s post, check it out at <a href="https://teachdatascience.com/shiny1/" class="uri">https://teachdatascience.com/shiny1/</a> and be sure to go play around with some Shiny apps at RStudio’s gallery at <a href="https://shiny.rstudio.com/gallery/" class="uri">https://shiny.rstudio.com/gallery/</a>.</p>
+<p>Shiny is too powerful not to be used in as many ways as possible. Today’s post will detail a few of the major ways it can be integrated into the classroom.</p>
+</div>
+<div id="shiny-apps-for-student-users" class="section level2">
+<h2>Shiny Apps for Student Users</h2>
+<p>With Shiny, instructors with knowledge of R now have the ability to create their own “applets” or demos to connect students with whatever dataset or data science topic they wish. The importance of tools like the Rossman/Chance <a href="http://www.rossmanchance.com/applets/">applets</a> and <a href="http://www.lock5stat.com/StatKey/">statkey</a> cannot be overstated, but curriculum and activities no longer need to conform to whatever is out there. As educators and R users, most classroom activities that involve the computer in some way can be converted into an interactive Shiny app.</p>
+<p>And these Shiny activities are not limited to introductory topics. To a very large extent, if it can be done in R then it can be incorporated into a Shiny app in some fashion. Though they’re using R on the backend, remember that these Shiny apps can be deployed to a website to be viewed and used within a browser…accessible anywhere there’s internet. Without access to a server at your institution/organization, <a href="https://www.shinyapps.io/">shinyapps.io</a> by RStudio will host your Shiny app for free. If the resources accompanying the free usage tier are not sufficient, remember that many of RStudio’s pro products are free for educators.</p>
+<p>Especially cool is the unprecedented ability to connect students novel methods and research via Shiny. This <a href="https://amstat.tandfonline.com/doi/full/10.1080/10691898.2018.1436999#.XQ7XIetKiHt">article</a> outlines a collaborative and interactive environment for students to learn about and apply new methods via Shiny apps.</p>
+<p>Beyond statistical concepts like data visualization and analysis, Shiny apps are a great way to teach R skills themselves. The <a href="https://blog.rstudio.com/2017/07/11/introducing-learnr/">learnr</a> package facilitates this process explicitly by making the construction of custom R tutorials easier than ever. Keep an eye out for a future blog post all about the learnr package!</p>
+</div>
+<div id="shiny-apps-by-students" class="section level2">
+<h2>Shiny Apps By Students</h2>
+<p>Give students a Shiny app and they’ll exhaust what it can do. Give students the ability and opportunity to build a Shiny app and the sky’s the limit!</p>
+<p>Equipping students with statistical computing and programming skills empowers them to really own and drive their work with data. Add to that the creation of a Shiny app and there’s nothing they’ll feel they can’t do with data. We’ve had great success asking teams of students (~3) to create a Shiny app as a final project. Not only does this give students fantastic practice with R, but the result is a <strong>product</strong> that they can literally show off to peers and prospective advisors, employers, etc.</p>
+<div id="student-nasa-shiny-app" class="section level3">
+<h3>Student NASA Shiny App</h3>
+<p>This app was created by a team of three students as a final project and the goal was exploratory data analysis with a dataset of their choice. The app can be found <a href="https://mschroth.shinyapps.io/lisinkershinyapp/">here</a>.</p>
+<center>
+<div class="figure">
+<img src="/post/shiny2/nasaapp.png" />
+
+</div>
+</center>
+<p>Based on the apps you saw yesterday on the gallery, you know that the default aesthetics are nothing special. These students not only found an interesting dataset and exciting ways to explore it, but had the enthusiasm to customize the theme of the page and add that gif on the last tab. It’s clear they had fun creating it!</p>
+</div>
+<div id="student-classification-shiny-app" class="section level3">
+<h3>Student Classification Shiny App</h3>
+<p>This app was also created by a team of three students as a final project and they chose to build a tool for exploring different classification methods. The app can be found <a href="">here</a></p>
+<center>
+<div class="figure">
+<img src="/post/shiny2/classifyapp.png" />
+
+</div>
+</center>
+<p>This one’s fun for its simultaneous simplicity and complexity. There are some somewhat advanced methods included which are nice to visualize, but the choice of datasets is the coup de grace by providing stunning clarity to how the different methods handle different data situations.</p>
+</div>
+</div>
+<div id="beyond-the-classroom" class="section level2">
+<h2>Beyond the Classroom</h2>
+<p>Whether it’s exposure to Shiny as a learning tool or the process of building one whole, students gain tremendous value from Shiny for what it could eventually provide their employer. Interactive visualizations and dashboards are all but ubiquitous in industry for both monitoring and gaining insight from a company’s data.</p>
+</div>
+<div id="learn-more" class="section level2">
+<h2>Learn more</h2>
+<ul>
+<li><p>Shiny Home: <a href="https://shiny.rstudio.com/" class="uri">https://shiny.rstudio.com/</a></p></li>
+<li><p>RStudio Shiny Gallery (there are others): <a href="https://shiny.rstudio.com/gallery/" class="uri">https://shiny.rstudio.com/gallery/</a></p></li>
+</ul>
+<div id="about-this-blog" class="section level3">
+<h3>About this blog</h3>
+<p>Each day during the summer of 2019 we intend to add a new entry to this blog on a given topic of interest to educators teaching data science and statistics courses. Each entry is intended to provide a short overview of why it is interesting and how it can be applied to teaching. We anticipate that these introductory pieces can be digested daily in 20 or 30 minute chunks that will leave you in a position to decide whether to explore more or integrate the material into your own classes. By following along for the summer, we hope that you will develop a clearer sense for the fast moving landscape of data science. Sign up for emails at <a href="https://groups.google.com/forum/#!forum/teach-data-science" class="uri">https://groups.google.com/forum/#!forum/teach-data-science</a> (you must be logged into Google to sign up).</p>
+<p>We always welcome comments on entries and suggestions for new ones.</p>
+</div>
+</div>

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>(c) 2019 Copyright Teach Data Science</copyright>
-    <lastBuildDate>Wed, 30 May 2018 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jul 2018 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="https://dazzling-lichterman-6802d7.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,43 +15,16 @@
     <item>
       <title>R Markdown</title>
       <link>https://dazzling-lichterman-6802d7.netlify.com/tags/r-markdown/</link>
-      <pubDate>Wed, 30 May 2018 21:13:14 -0500</pubDate>
+      <pubDate>Sat, 28 Jul 2018 21:13:14 -0500</pubDate>
       
       <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R Projects</title>
-      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/r-projects/</link>
-      <pubDate>Wed, 30 May 2018 21:13:14 -0500</pubDate>
-      
-      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/r-projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>workflow</title>
-      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/workflow/</link>
-      <pubDate>Tue, 29 May 2018 21:13:14 -0500</pubDate>
-      
-      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/workflow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>wrangling</title>
-      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/wrangling/</link>
-      <pubDate>Mon, 28 May 2018 21:13:14 -0500</pubDate>
-      
-      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/wrangling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>plot</title>
       <link>https://dazzling-lichterman-6802d7.netlify.com/tags/plot/</link>
-      <pubDate>Sun, 27 May 2018 21:13:14 -0500</pubDate>
+      <pubDate>Sat, 28 Jul 2018 21:13:14 -0500</pubDate>
       
       <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/plot/</guid>
       <description></description>
@@ -60,27 +33,315 @@
     <item>
       <title>regression</title>
       <link>https://dazzling-lichterman-6802d7.netlify.com/tags/regression/</link>
-      <pubDate>Sun, 27 May 2018 21:13:14 -0500</pubDate>
+      <pubDate>Sat, 28 Jul 2018 21:13:14 -0500</pubDate>
       
       <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R Studio</title>
-      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/r-studio/</link>
-      <pubDate>Mon, 21 May 2018 21:13:14 -0500</pubDate>
+      <title>rstudio</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/rstudio/</link>
+      <pubDate>Wed, 11 Jul 2018 21:13:14 -0500</pubDate>
       
-      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/r-studio/</guid>
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/rstudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CODAP</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/codap/</link>
+      <pubDate>Mon, 09 Jul 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/codap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>collaboration</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/collaboration/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/collaboration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>education</title>
       <link>https://dazzling-lichterman-6802d7.netlify.com/tags/education/</link>
-      <pubDate>Mon, 21 May 2018 21:13:14 -0500</pubDate>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workflow</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/workflow/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/workflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Shiny</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/r-shiny/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/r-shiny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visualization</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/visualization/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>communication</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/communication/</link>
+      <pubDate>Mon, 25 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RStudio server</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/rstudio-server/</link>
+      <pubDate>Sat, 23 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/rstudio-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RStudio.cloud</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/rstudio.cloud/</link>
+      <pubDate>Sat, 23 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/rstudio.cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud computing</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/cloud-computing/</link>
+      <pubDate>Sat, 23 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/cloud-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>server</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/server/</link>
+      <pubDate>Sat, 23 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teaching</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/teaching/</link>
+      <pubDate>Wed, 20 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teamwork</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/teamwork/</link>
+      <pubDate>Wed, 20 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/teamwork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reports</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/reports/</link>
+      <pubDate>Tue, 19 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/reports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>modeling</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/modeling/</link>
+      <pubDate>Mon, 18 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>statistics</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/statistics/</link>
+      <pubDate>Mon, 18 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/sql/</link>
+      <pubDate>Sun, 17 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data technologies</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/data-technologies/</link>
+      <pubDate>Sun, 17 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/data-technologies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data wrangling</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/data-wrangling/</link>
+      <pubDate>Sun, 17 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/data-wrangling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>database</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/database/</link>
+      <pubDate>Sun, 17 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>statistical inference</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/statistical-inference/</link>
+      <pubDate>Sun, 17 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/statistical-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tidyverse</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/tidyverse/</link>
+      <pubDate>Sun, 17 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/tidyverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/github/</link>
+      <pubDate>Wed, 13 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Projects</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/r-projects/</link>
+      <pubDate>Tue, 12 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/r-projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Studio</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/r-studio/</link>
+      <pubDate>Tue, 12 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/r-studio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mapping</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/mapping/</link>
+      <pubDate>Sun, 10 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>community colleges</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/community-colleges/</link>
+      <pubDate>Sat, 09 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/community-colleges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simpson&#39;s paradox</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/simpsons-paradox/</link>
+      <pubDate>Wed, 06 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/simpsons-paradox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multivariate thinking</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/multivariate-thinking/</link>
+      <pubDate>Wed, 06 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/multivariate-thinking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>report</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/report/</link>
+      <pubDate>Wed, 06 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>entertainment</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/entertainment/</link>
+      <pubDate>Tue, 05 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/entertainment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>podcast</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/podcast/</link>
+      <pubDate>Tue, 05 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wrangling</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/tags/wrangling/</link>
+      <pubDate>Mon, 04 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/wrangling/</guid>
       <description></description>
     </item>
     

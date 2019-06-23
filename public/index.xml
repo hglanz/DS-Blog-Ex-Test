@@ -22,6 +22,333 @@
     </item>
     
     <item>
+      <title>Statistics at Google Scale</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/07/28/googlescale/</link>
+      <pubDate>Sat, 28 Jul 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/07/28/googlescale/</guid>
+      <description>XXMaps are an important way of displaying data.
+The leaflet package in R provides access to the Leaflet Javascript libraries (http://leafletjs.com), an open-source mechanism to create interactive maps. The leaflet package (https://rstudio.github.io/leaflet/) provides an interface within R that allows for composing maps using map tiles (e.g., from OpenStreetMap, https://www.openstreetmap.org/#map=5/38.007/-95.844) that can be annotated with markers, lines, popups.
+Here’s a simple example where data from higher education institutions from within the Five College Consortium in Western Massachusetts is mapped.</description>
+    </item>
+    
+    <item>
+      <title>Algorithmic interpretability</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/07/25/interpretability/</link>
+      <pubDate>Wed, 25 Jul 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/07/25/interpretability/</guid>
+      <description>XXMaps are an important way of displaying data.
+The leaflet package in R provides access to the Leaflet Javascript libraries (http://leafletjs.com), an open-source mechanism to create interactive maps. The leaflet package (https://rstudio.github.io/leaflet/) provides an interface within R that allows for composing maps using map tiles (e.g., from OpenStreetMap, https://www.openstreetmap.org/#map=5/38.007/-95.844) that can be annotated with markers, lines, popups.
+Here’s a simple example where data from higher education institutions from within the Five College Consortium in Western Massachusetts is mapped.</description>
+    </item>
+    
+    <item>
+      <title>AP CS Principles (and Data as a Big Idea)</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/07/22/apcsprinciples/</link>
+      <pubDate>Sun, 22 Jul 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/07/22/apcsprinciples/</guid>
+      <description>XXMaps are an important way of displaying data.
+The leaflet package in R provides access to the Leaflet Javascript libraries (http://leafletjs.com), an open-source mechanism to create interactive maps. The leaflet package (https://rstudio.github.io/leaflet/) provides an interface within R that allows for composing maps using map tiles (e.g., from OpenStreetMap, https://www.openstreetmap.org/#map=5/38.007/-95.844) that can be annotated with markers, lines, popups.
+Here’s a simple example where data from higher education institutions from within the Five College Consortium in Western Massachusetts is mapped.</description>
+    </item>
+    
+    <item>
+      <title>Comparing SAS, R, and Python</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/07/18/sasrpython/</link>
+      <pubDate>Wed, 18 Jul 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/07/18/sasrpython/</guid>
+      <description>XXMaps are an important way of displaying data.
+The leaflet package in R provides access to the Leaflet Javascript libraries (http://leafletjs.com), an open-source mechanism to create interactive maps. The leaflet package (https://rstudio.github.io/leaflet/) provides an interface within R that allows for composing maps using map tiles (e.g., from OpenStreetMap, https://www.openstreetmap.org/#map=5/38.007/-95.844) that can be annotated with markers, lines, popups.
+Here’s a simple example where data from higher education institutions from within the Five College Consortium in Western Massachusetts is mapped.</description>
+    </item>
+    
+    <item>
+      <title>more Less Volume More Creativity (R vs. Python)</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/07/14/data8/</link>
+      <pubDate>Sat, 14 Jul 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/07/14/data8/</guid>
+      <description>Upon completion of CS/STAT/INFO C8, students should be able to:
+Write correct small programs that manipulate and combine data sets and carry out iterative procedures.Extend a program with multiple functions so that it runs correctly with additional functionality.Calculate specified statistics of a given dataset.Identify the sources of randomness in an experiment.Formulate a null hypothesis that relates to a given question, which can be assessed using a statistical test.</description>
+    </item>
+    
+    <item>
+      <title>R Studio Add-Ins and Tips</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/07/11/r-addtips/</link>
+      <pubDate>Wed, 11 Jul 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/07/11/r-addtips/</guid>
+      <description>RStudio tips / tricks annotating, table of contents, etc.
+I don’t know what Nick means, but he said something along the line of Add-Ins. Ask him.
+https://cran.r-project.org/web/packages/addinslist/README.html
+https://simplystatistics.org/2019/03/13/10-things-r-can-do-that-might-surprise-you/</description>
+    </item>
+    
+    <item>
+      <title>Using the Common Online Data Analysis Platform (CODAP) to teach data science</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/07/09/codap/</link>
+      <pubDate>Mon, 09 Jul 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/07/09/codap/</guid>
+      <description>Today we have a guest entry authored by Tim Erickson and Bill Finzer about the use of the Common Online Data Analysis Platform (CODAP) to teach data science. They write:
+We’ve been designing point-and-click data software since the early 90’s. From the beginning, though, we wanted to get beyond point-and-click to a user experience of data immersion. (William Gibson’s 1984 cyberpunk novel Neuromancer and its “cyberspace” both inspired and eluded us.</description>
+    </item>
+    
+    <item>
+      <title>forcats and other anagrams</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/07/09/forcats/</link>
+      <pubDate>Mon, 09 Jul 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/07/09/forcats/</guid>
+      <description>forcatsMaps are an important way of displaying data.
+The leaflet package in R provides access to the Leaflet Javascript libraries (http://leafletjs.com), an open-source mechanism to create interactive maps. The leaflet package (https://rstudio.github.io/leaflet/) provides an interface within R that allows for composing maps using map tiles (e.g., from OpenStreetMap, https://www.openstreetmap.org/#map=5/38.007/-95.844) that can be annotated with markers, lines, popups.
+Here’s a simple example where data from higher education institutions from within the Five College Consortium in Western Massachusetts is mapped.</description>
+    </item>
+    
+    <item>
+      <title>Refactoring for fun and profit</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/07/07/refactoring/</link>
+      <pubDate>Sat, 07 Jul 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/07/07/refactoring/</guid>
+      <description>XXMaps are an important way of displaying data.
+The leaflet package in R provides access to the Leaflet Javascript libraries (http://leafletjs.com), an open-source mechanism to create interactive maps. The leaflet package (https://rstudio.github.io/leaflet/) provides an interface within R that allows for composing maps using map tiles (e.g., from OpenStreetMap, https://www.openstreetmap.org/#map=5/38.007/-95.844) that can be annotated with markers, lines, popups.
+Here’s a simple example where data from higher education institutions from within the Five College Consortium in Western Massachusetts is mapped.</description>
+    </item>
+    
+    <item>
+      <title>Five Quick Tips for Coding in the Classroom</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/07/04/teaching_programming_tips/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/07/04/teaching_programming_tips/</guid>
+      <description>IntroHello!It’s my distinct pleasure to be guest-blogging for you today! My name is Kelly Bodwin and I’m an Assistant Professor of Statistics at Cal Poly, San Luis Obispo. In my two years at Cal Poly I have taught
+Stat 218 - An introductory course for non-majorsStat 419 - An upper-level course in multivariate analysisStat 331 - Our department’s introductory R classIn all of these courses, I make extensive use of R.</description>
+    </item>
+    
+    <item>
+      <title>Creating tutorials in R using learnr</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/07/02/learnr/</link>
+      <pubDate>Mon, 02 Jul 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/07/02/learnr/</guid>
+      <description>XXMaps are an important way of displaying data.
+The leaflet package in R provides access to the Leaflet Javascript libraries (http://leafletjs.com), an open-source mechanism to create interactive maps. The leaflet package (https://rstudio.github.io/leaflet/) provides an interface within R that allows for composing maps using map tiles (e.g., from OpenStreetMap, https://www.openstreetmap.org/#map=5/38.007/-95.844) that can be annotated with markers, lines, popups.
+Here’s a simple example where data from higher education institutions from within the Five College Consortium in Western Massachusetts is mapped.</description>
+    </item>
+    
+    <item>
+      <title>Using Shiny in the Classroom</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/28/shiny2/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/28/shiny2/</guid>
+      <description>Shiny RecapYesterday we introduced R Shiny and how it allows you to build interactive web applications straight from R. We saw a few examples highlighting the wondrous interactivtiy of exploratory data analysis, data visualization, and data analysis that it enables. If you didn’t catch yesterday’s post, check it out at https://teachdatascience.com/shiny1/ and be sure to go play around with some Shiny apps at RStudio’s gallery at https://shiny.</description>
+    </item>
+    
+    <item>
+      <title>An Introduction to R Shiny</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/27/shiny1/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/27/shiny1/</guid>
+      <description>What is R Shiny?Straight from RStudio’s wonderful introduction, Shiny is an R package that makes it easy to build interactive web applications straight from R. You can host standalone apps on a webpage or embed them in R Markdown documents or build dashboards. Not only does Shiny allow you to build these web apps from R, but it enables their construction using only R code. Knowledge of HTML and web development is not required at all, though it can be used to enhance your apps in numerous ways.</description>
+    </item>
+    
+    <item>
+      <title>Data Science for Good</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/25/data4good/</link>
+      <pubDate>Mon, 25 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/25/data4good/</guid>
+      <description>As educators, it is exciting that our course enrollments are up and students are excited about data science topics, models, software, and careers. It is also validating that when the graduate, our students are able to support themselves doing interesting and engaging work. However, it can be sometimes disheartening to realize how many of our data science students use their skills to maximize the number of times viewers click on ads.</description>
+    </item>
+    
+    <item>
+      <title>Teaching Data Visualization</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/24/dataviz/</link>
+      <pubDate>Sun, 24 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/24/dataviz/</guid>
+      <description>As statistics educators, it is often easier to focus our teaching on methods instead of communication. And while many of us understand the value of good communication, actually teaching it is difficult and outside of our comfort zone. There has been quite a bit of work done on the science of visualization (e.g., the Grammar of Graphics by Wilkinson). There is general consensus that teaching students to communicate using visualizations is of paramount importance (see recent blog entries: National Academies Report on Data Science and GAISE).</description>
+    </item>
+    
+    <item>
+      <title>RStudio Server Pro and Rstudio.cloud installations</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/23/cloud/</link>
+      <pubDate>Sat, 23 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/23/cloud/</guid>
+      <description>When people ask about how to get their students engaged with R in their introductory statistics and data science courses we offer three pieces of advice:
+keep it simple (discussed in the “Less Volume, More Creativity” blog entry)engage students to provide peer-tutoring and drop-in office hours to assist with questions and coding to complement class and office hours (at Amherst College this is coordinated by the Statistics and Data Science Fellows)have students use a dedicated server to access RSlide credit: Mine Çetinkaya-Rundel</description>
+    </item>
+    
+    <item>
+      <title>Pair Programming for Data Science and Statistics</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/20/pairprogramming/</link>
+      <pubDate>Wed, 20 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/20/pairprogramming/</guid>
+      <description>Pair programming is a technique from software development where two programmers work in tandem to code. One is designated the driver, responsible for typing, while the other, often called the navigator or observer reviews the code and provides a high-level overview of the task.
+Photo credit: Esti Alvarez
+Pair programming has been thought to lead to better code, more enjoyable coding, and higher productivity, with some research findings supporting those conclusions (see some of the references at the end of this entry).</description>
+    </item>
+    
+    <item>
+      <title>Practical Data Science: an introduction to the PeerJ collection</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/19/peerj/</link>
+      <pubDate>Tue, 19 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/19/peerj/</guid>
+      <description>In 2017, Jenny Bryan and Hadley Wickham published the “Practical Data Science for Stats” PeerJ collection. (The papers were also published in a special issue of The American Statistician.)
+The “Practical Data Science for Stats” Collection contains a series of short papers focused on the practical side of data science workflows and statistical analysis.
+There are many aspects of day-to-day data analytical work that are almost absent from the conventional statistics literature and curriculum.</description>
+    </item>
+    
+    <item>
+      <title>Less Volume More Creativity in R</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/18/mosaic/</link>
+      <pubDate>Mon, 18 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/18/mosaic/</guid>
+      <description>In 2016, GAISE enunciated the importance of multivariate thinking and technology when teaching introductory statistics and data science courses. A big challenge is how to do this using R and RStudio without running into cognitive overload with our students.
+The mosaic package was created by Randall Pruim, Danny Kaplan, and Nicholas Horton with the goal of introducing a Less Volume, More Creativity approach to introductory statistics that could simplify the use of technology.</description>
+    </item>
+    
+    <item>
+      <title>SQL 101 in R</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/17/sql/</link>
+      <pubDate>Sun, 17 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/17/sql/</guid>
+      <description>The NASEM Data Science for Undergraduates report noted that the storage, preparation, and accessing of data is at the heart of data science and that students need to directly experience multiple forms of data, including the use of databases.
+SQL (pronounced sequel) stands for Structured Query Language; it is a language designed to manage data in a relational database system. The papers https://chance.amstat.org/2015/04/setting-the-stage and https://chance.amstat.org/2015/04/databases/ provide a high level overview of database systems.</description>
+    </item>
+    
+    <item>
+      <title>`sparklyr` and parallel processing</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/17/parallel/</link>
+      <pubDate>Sun, 17 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/17/parallel/</guid>
+      <description>hype transparency embarrassingly parallel
+flow chart, send out 100 tasks, bring back together
+Hana’s example (around 30min)
+library(parallel)P &amp;lt;- detectCores(logical=FALSE)P## [1] 4cl &amp;lt;- makeCluster(P)cl## socket cluster with 4 nodes on host &amp;#39;localhost&amp;#39;cl[[1]]## node of a socket cluster on host &amp;#39;localhost&amp;#39; with pid 1720stopCluster(cl)cl[[1]]## Error in summary.connection(connection): invalid connectionspark: distributed computing
+a brief mention of parallel computation to do embarassingly parallel things (simulation study?</description>
+    </item>
+    
+    <item>
+      <title>infer</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/17/infer/</link>
+      <pubDate>Sun, 17 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/17/infer/</guid>
+      <description>Although an agreed upon definition of data science is hard to come by, there is clear consensus that statistics plays a key role in the foundational knowledge of anyone working with data. One important aspect of statistics is understanding of the inferential process that allows claims to be made about a population from a dataset. Most Introductory Statistics courses and textbooks spend substantial time presenting statistical inference as a way to generate p-values and make claims (or not) about a research hypothesis.</description>
+    </item>
+    
+    <item>
+      <title>Github Classroom</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/13/gitclass/</link>
+      <pubDate>Wed, 13 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/13/gitclass/</guid>
+      <description>If you have been reading along in the blog, you’ve noticed the last two entries describing GitHub and GitHub in R. And certainly, we continue to advocate teaching students to use GitHub as an integral part of their data science workflow. And GitHub may be the perfect place to store student projects either as public or private repositories.
+But using GitHub to navigate a dozen homework assignments with 50 students can become logistically difficult.</description>
+    </item>
+    
+    <item>
+      <title>Using GitHub in R</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/12/githubinr/</link>
+      <pubDate>Tue, 12 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/12/githubinr/</guid>
+      <description>Once you get the hang of using Projects in RStudio, you may be inclined to collaborate with others on the same project. If so, you will want to set up a Project that links directly to GitHub. By having your project on GitHub (and regularly saving it / updating it on GitHub), your collaborators will always have access to the most up to date analysis information.
+Previous posts have described working with R Projects and working with GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Github for Fun and Profit</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/11/github/</link>
+      <pubDate>Mon, 11 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/11/github/</guid>
+      <description>How do we help students carry out data analysis workflows that are comprehensible and reproducible?
+The 2018 NASEM “Data Science for Undergraduates” report enunciated the importance of workflow and reproducibility as a key component of data acumen.
+“Documenting and sharing workflows enable others to understand how data have been used and refined and what steps were taken in an analysis process. This can increase the confidence in results and improve trust in the process as well as enable reuse of analyses or results in a meaningful way” (NASEM 2019, page 2-12).</description>
+    </item>
+    
+    <item>
+      <title>Leaflet for mapping</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/10/leaflet/</link>
+      <pubDate>Sun, 10 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/10/leaflet/</guid>
+      <description>Maps are an important way of displaying data. Leaflet Javascript libraries (http://leafletjs.com) are an an open-source mechanism to create interactive maps. The leaflet package (https://rstudio.github.io/leaflet/) provides an interface within R that allows for composing maps using map tiles (e.g., from OpenStreetMap, https://www.openstreetmap.org/#map=5/38.007/-95.844) that can be annotated with markers, lines, popups.
+Here’s a simple example where data from higher education institutions from within the Five College Consortium in Western Massachusetts is mapped.</description>
+    </item>
+    
+    <item>
+      <title>Roundtable on Data Science Post Secondary Education</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/09/dsert/</link>
+      <pubDate>Sat, 09 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/09/dsert/</guid>
+      <description>Roundtable on Data Science Postsecondary EducationThe National Academies of Science, Engineering, and Medicine Roundtable on Data Science Postsecondary Education was convened in 2016 to work to develop a shared vision for the emerging field of data science. The Roundtable, which consists of representatives from industry, government, and academia meets quarterly for a day to discuss best practices, ways to support the growing community, and approaches to help advance data science education.</description>
+    </item>
+    
+    <item>
+      <title>Diversity in Data Science &amp; Statistics</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/07/diversity/</link>
+      <pubDate>Thu, 07 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/07/diversity/</guid>
+      <description>Calls for DiversityData science is made up of not only sets of tools, methods, and problems to solve, but also actual people who make up the statistics &amp;amp; data science community. The National Academies Report on Data Science for Undergraduates (see previous blog post at: https://teachdatascience.com/nasem) includes a section on “Ensuring Broad Participation” which reiterates the importance of creating an inclusive community where all views are heard and supported.</description>
+    </item>
+    
+    <item>
+      <title>Guidelines for Assessment and Instruction in Statistics Education</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/06/gaise/</link>
+      <pubDate>Wed, 06 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/06/gaise/</guid>
+      <description>Guidelines for Assessment and Instruction in Statistics EducationThe American Statistical Association has placed a priority on how best to teach statistics and data science. The Guidelines for Assessment and Instruction in Statistics Education (GAISE) reports have served a key role in guiding instructors and institutions in their pedagogical choices.
+Two GAISE reports have been written: one focused on statistics at the PreK-12 level and another, revised in 2016, focused on college level courses.</description>
+    </item>
+    
+    <item>
+      <title>Not So Standard Deviations: not your average data science podcast</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/05/nssd/</link>
+      <pubDate>Tue, 05 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/05/nssd/</guid>
+      <description>As an instructor teaching data, it is often difficult to explain the world the students will be joining (industry) given the experiences of the instructor (academia). One way to bridge the two worlds is to peek into the world of data science outside of academia and then tell your students about it.
+Hilary Parker and Roger Peng’s podcast, Not So Standard Deviations provides glimpses into data science challenges, obstacles, opportunities, and solutions in the real world.</description>
+    </item>
+    
+    <item>
+      <title>Watching an expert work through a data analysis using the tidyverse</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/04/screencast/</link>
+      <pubDate>Mon, 04 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/04/screencast/</guid>
+      <description>Watching an expert work through a data analysis using the tidyverseTeaching Data Science is challenging since it involves teaching the entire data science analysis cycle. While it’s helpful for students to experience this process, they can often feel at sea in terms of the decisions they need to make and the iterative process of exploration, modeling, summarization.
+We’ve been using the data science cycle promulgated by Hadley Wickham and Garrett Grolemund (both from RStudio) that was published in their excellent book: R for Data Science, https://r4ds.</description>
+    </item>
+    
+    <item>
+      <title>The Tidyverse</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/03/tidyverse/</link>
+      <pubDate>Sun, 03 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/03/tidyverse/</guid>
+      <description>What is the Tidyverse?The tidyverse is a coherent system of R packages for data wrangling, exploration and visualization that share a common design philosophy. These packages are intended to make statisticians and data scientists more productive by guiding them through workflows that facilitate communication, and result in reproducible work products. Unpacking the tidyverse, all that it means and contains, could easily take a dedicated book or blog in itself.</description>
+    </item>
+    
+    <item>
       <title>Projects in RStudio</title>
       <link>https://dazzling-lichterman-6802d7.netlify.com/2018/05/30/projects/</link>
       <pubDate>Wed, 30 May 2018 21:13:14 -0500</pubDate>
@@ -69,13 +396,49 @@ By including data work, code, and analysis narrative into a single document, R M
     </item>
     
     <item>
-      <title>What is Hugo?</title>
-      <link>https://dazzling-lichterman-6802d7.netlify.com/2016/04/24/what-is-hugo/</link>
-      <pubDate>Sun, 24 Apr 2016 02:50:28 +0200</pubDate>
+      <title>GitHub and RStudio Projects - Test?</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/05/15/projectsgit/</link>
+      <pubDate>Tue, 15 May 2018 21:13:14 -0500</pubDate>
       
-      <guid>https://dazzling-lichterman-6802d7.netlify.com/2016/04/24/what-is-hugo/</guid>
-      <description>Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike other systems which dynamically build a page every time a visitor requests one, Hugo does the building when you create your content. Since websites are viewed far more often than they are edited, Hugo is optimized for website viewing while providing a great writing experience.
-Sites built with Hugo are extremely fast and very secure.</description>
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/05/15/projectsgit/</guid>
+      <description>Once you get the hang of using Projects in RStudio, you may be inclined to collaborate with others on the same project. If so, you will want to set up a Project that links directly to GitHub. By having your project on GitHub (and regularly saving it / updating it on GitHub), your collaborators will always have access to the most up to date analysis information.
+Previous blogs have described working with R Projects (link to that blog) and working with GitHub (link to that blog).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/1/01/01/acs01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/1/01/01/acs01/</guid>
+      <description>Title</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/1/01/01/acs02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/1/01/01/acs02/</guid>
+      <description>Title</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/1/01/01/acs03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/1/01/01/acs03/</guid>
+      <description>Title</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/1/01/01/acsx01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/1/01/01/acsx01/</guid>
+      <description>Title</description>
     </item>
     
   </channel>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>communication on Teach Data Science</title>
+    <link>https://dazzling-lichterman-6802d7.netlify.com/tags/communication/</link>
+    <description>Recent content in communication on Teach Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>(c) 2019 Copyright Teach Data Science</copyright>
+    <lastBuildDate>Mon, 25 Jun 2018 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="https://dazzling-lichterman-6802d7.netlify.com/tags/communication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Science for Good</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/25/data4good/</link>
+      <pubDate>Mon, 25 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/25/data4good/</guid>
+      <description>As educators, it is exciting that our course enrollments are up and students are excited about data science topics, models, software, and careers. It is also validating that when the graduate, our students are able to support themselves doing interesting and engaging work. However, it can be sometimes disheartening to realize how many of our data science students use their skills to maximize the number of times viewers click on ads.</description>
+    </item>
+    
+    <item>
+      <title>Teaching Data Visualization</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/06/24/dataviz/</link>
+      <pubDate>Sun, 24 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/06/24/dataviz/</guid>
+      <description>As statistics educators, it is often easier to focus our teaching on methods instead of communication. And while many of us understand the value of good communication, actually teaching it is difficult and outside of our comfort zone. There has been quite a bit of work done on the science of visualization (e.g., the Grammar of Graphics by Wilkinson). There is general consensus that teaching students to communicate using visualizations is of paramount importance (see recent blog entries: National Academies Report on Data Science and GAISE).</description>
+    </item>
+    
+  </channel>
+</rss>
