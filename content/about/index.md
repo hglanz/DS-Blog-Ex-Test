@@ -1,7 +1,8 @@
----
-date: "2019-03-29"
-title: About
----
++++
+date = "2019-03-29"
+draft = false
+title =  "About"
++++
 
 
 ## Why another Data Science Education blog?
@@ -30,18 +31,18 @@ We welcome suggestions for topics: don't hesitate to share your ideas (guest ent
 
 ##  Who are we?
 
-<img alt = 'Hunter' width='200' src='/post/intro/hunter.jpg' />
+<img alt = 'Hunter' width='200' src='/post/2019_05_21_Introduction/hunter.jpg' />
 
 **[Hunter Glanz](https://statistics.calpoly.edu/hunter-glanz)** ([twitter](https://twitter.com/hglanz)) is an Assistant Professor of Statistics and Data Science at California Polytechnic State University (Cal Poly, San Luis Obispo). He received a BS in Mathematics and a BS in Statistics from Cal Poly, San Luis Obispo followed by an MA and PhD in Statistics from Boston University. He maintains a passion for machine learning and statistical computing, and enjoys advancing education efforts in these areas. In particular, Cal Poly's courses in R, SAS, and Python give him the opportunity to connect students with exciting data science topics amidst a firm grounding in communication of statistical ideas. Hunter serves on numerous committees and organizations dedicated to delivering cutting edge statistical and data science content to students and professionals alike. In particular, the ASA's DataFest event at UCLA has been an extremely rewarding experience for the teams of Cal Poly students Hunter has had the pleasure of advising.
 
 
 
-<img alt = 'Jo' width='200' src='/post/intro/jo_headshot8.jpg' />
+<img alt = 'Jo' width='200' src='/post/2019_05_21_Introduction/jo_headshot8.jpg' />
 
 **[Jo Hardin](https://www.pomona.edu/directory/people/johanna-s-hardin)** ([twitter](https://twitter.com/jo_hardin47)) is a statistician at Pomona College who is passionate about statistics and data science education for all.   She received her BA from Pomona College and her MS and PhD degrees from the University of California, Davis.  Two years of working at the Fred Hutchinson Cancer Research Center in Seattle, WA got her hooked into analyzing high throughput data (e.g., simultaneous gene expression of thousands of genes).   Much of her theoretical work has focused on computational approaches to  statistical problems in genetics.  Jo works hard to provide her students with current best practices, including teaching the `tidyverse` to her students in Introduction to Statistics.  Beyond the classroom, she has also worked to engage students in statistics and data science: she has worked on the ASA's curriculum guidelines task force, sent groups of students to UCLA's DataFest competition, and hosted a local StatFest conference.  Through her endeavors, she is working to help undergraduates learn about analyzing data in the wild and gain the skills to be effective and ethical when tasked with making claims from data.  This fall she will be teaching statistics inside the California Rehabilitation Center through the international [Inside-Out Prison Exchange Program](http://www.insideoutcenter.org/).
 
 
-<img alt = 'Nick' width='200' src='/post/intro/nick.jpg' />
+<img alt = 'Nick' width='200' src='/post/2019_05_21_Introduction/nick.jpg' />
 
 **[Nick Horton](https://www.amherst.edu/people/facstaff/nhorton)** ([twitter](https://twitter.com/askdrstats)) is Beitzel Professor of Technology and Society and Professor of Statistics and Data Science at Amherst College. His recent work has focused on statistics and data science education.  Nick is a fellow of the American Statistical Association and the American Association for the Advancement of Science. He chaired the Committee of Presidents of Statistical Societies and the ASA Curriculum Guidelines for Undergraduate Programs in Statistical Science workgroup.  Nick serves on the National Academies Committee for Applied and Theoretical Statistics and is a co-author of the 2018 "[Undergraduate Data Science: Opportunities and Options](https://nas.edu/envisioningds)" consensus study report and the ASA's revised GAISE ([Guidelines for Assessment and Instruction in Statistics Education](https://www.amstat.org/asa/education/Guidelines-for-Assessment-and-Instruction-in-Statistics-Education-Reports.aspx)) College report.
 

@@ -71,7 +71,7 @@ optin = true #opt-in: true/false
 # default, flatly, journal,  lumen, paper, readable, sandstone, simplex,
 # slate, spacelab, superhero, united, yeti.
 
-bootswatchtheme = "darkly"
+bootswatchtheme = "flatly"
 
 # menu for changing language. This changes languages with js and stores the choice with the help of JavaScript in a Cookie. Then the path is rewritten with pathnamereplace.js. The name of the md files needs to have the same name for each language abbreviation to work correctly. Example: showcase.en.md and showcase.sv.md. It only works if DefaultContentLanguageInSubdir = true
 switchlang = false
@@ -79,7 +79,7 @@ switchlang = false
 BrandImage = "http://blog.appernetic.io/images/apperneticlogo.png" #top header brand image.
 brand = "Teach Data Science" # brand image alt text.
 topline = "A roadmap to recent developments in teaching data science"
-footline = "Designed and written in California and Massachusetts."
+footline = "Made with [Hugo](https://gohugo.io/). Themed by [Bootstrap](https://github.com/appernetic/hugo-bootstrap-premium). Deployed to [Netlify](https://www.netlify.com/). Designed and written in California and Massachusetts."
 
 customJS = []
 customCSS = ["/css/style_custom.css"]
@@ -155,7 +155,7 @@ name = "About"
 weight = 1
 identifier = ""
 url = "/about/"
-pre = "<i class='fa fa-road'></i>"
+pre = ""
 
 [[Languages.en.menu.main]]
 name = "Tags"

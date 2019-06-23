@@ -24,83 +24,93 @@
   </url>
   
   <url>
-    <loc>https://dazzling-lichterman-6802d7.netlify.com/showcase/</loc>
-    <lastmod>2016-12-05T14:41:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="https://dazzling-lichterman-6802d7.netlify.com/sv/showcase/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dazzling-lichterman-6802d7.netlify.com/showcase/"
-                />
-  </url>
-  
-  <url>
     <loc>https://dazzling-lichterman-6802d7.netlify.com/post/</loc>
-    <lastmod>2016-04-24T02:50:28+02:00</lastmod>
+    <lastmod>2018-05-30T21:13:14-05:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="https://dazzling-lichterman-6802d7.netlify.com/sv/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dazzling-lichterman-6802d7.netlify.com/post/"
-                />
   </url>
   
   <url>
-    <loc>https://dazzling-lichterman-6802d7.netlify.com/2016/04/24/what-is-hugo/</loc>
-    <lastmod>2016-04-24T02:50:28+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dazzling-lichterman-6802d7.netlify.com/2016/04/21/introduction/</loc>
-    <lastmod>2016-04-21T02:50:28+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="https://dazzling-lichterman-6802d7.netlify.com/sv/2016/12/05/introduction/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dazzling-lichterman-6802d7.netlify.com/2016/04/21/introduction/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://dazzling-lichterman-6802d7.netlify.com/2015/07/23/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>https://dazzling-lichterman-6802d7.netlify.com/2018/05/30/projects/</loc>
+    <lastmod>2018-05-30T21:13:14-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://dazzling-lichterman-6802d7.netlify.com/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2018-05-30T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dazzling-lichterman-6802d7.netlify.com/tags/r-projects/</loc>
+    <lastmod>2018-05-30T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dazzling-lichterman-6802d7.netlify.com/tags/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2018-05-30T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://dazzling-lichterman-6802d7.netlify.com/2018/05/29/rmarkdown/</loc>
+    <lastmod>2018-05-29T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dazzling-lichterman-6802d7.netlify.com/tags/workflow/</loc>
+    <lastmod>2018-05-29T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dazzling-lichterman-6802d7.netlify.com/2018/05/28/ingestingdata/</loc>
+    <lastmod>2018-05-28T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dazzling-lichterman-6802d7.netlify.com/tags/wrangling/</loc>
+    <lastmod>2018-05-28T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dazzling-lichterman-6802d7.netlify.com/2018/05/27/nasem/</loc>
+    <lastmod>2018-05-27T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dazzling-lichterman-6802d7.netlify.com/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2018-05-27T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dazzling-lichterman-6802d7.netlify.com/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2018-05-27T21:13:14-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dazzling-lichterman-6802d7.netlify.com/2018/05/21/intro/</loc>
+    <lastmod>2018-05-21T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dazzling-lichterman-6802d7.netlify.com/tags/r-studio/</loc>
+    <lastmod>2018-05-21T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dazzling-lichterman-6802d7.netlify.com/tags/education/</loc>
+    <lastmod>2018-05-21T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dazzling-lichterman-6802d7.netlify.com/2016/04/24/what-is-hugo/</loc>
+    <lastmod>2016-04-24T02:50:28+02:00</lastmod>
   </url>
   
   <url>

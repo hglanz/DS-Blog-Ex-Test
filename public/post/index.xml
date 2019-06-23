@@ -9,10 +9,57 @@
     <managingEditor>yourname@example.com (yourname)</managingEditor>
     <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2019 Copyright Teach Data Science</copyright>
-    <lastBuildDate>Sun, 24 Apr 2016 02:50:28 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 30 May 2018 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="https://dazzling-lichterman-6802d7.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projects in RStudio</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/05/30/projects/</link>
+      <pubDate>Wed, 30 May 2018 21:13:14 -0500</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/05/30/projects/</guid>
+      <description>What are Projects?RStudio Projects are a mechanism for keeping all the files associated with a project together in one place – data, R scripts, results, figures, reports, etc. Projects are built in to the RStudio IDE, and for good reproducible workflow, all projects should start by creating a Project.
+Why RStudio?It goes almost without saying that as a group we have moved completely to the RStudio interface to R.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started With R Markdown</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/05/29/rmarkdown/</link>
+      <pubDate>Tue, 29 May 2018 21:13:14 -0500</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/05/29/rmarkdown/</guid>
+      <description>What is R Markdown?Straight from RStudio’s wonderful tutorial, R Markdown is an authoring framework for data science. An R Markdown file is a plain text file with three types of content: code chunks to run, text to display, and metadata to help govern the R Markdown build process. Put simply, R Markdown is an exciting new reporting medium that seamlessly integrates executable code and expository text.
+By including data work, code, and analysis narrative into a single document, R Markdown provides a fully reproducible vehicle for data science projects!</description>
+    </item>
+    
+    <item>
+      <title>Ingesting Data</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/05/28/ingestingdata/</link>
+      <pubDate>Mon, 28 May 2018 21:13:14 -0500</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/05/28/ingestingdata/</guid>
+      <description>Why use data from outside sources?The world is awash in data, and whatever else we teach in a data science curriculum, data must be at the center. Calls to modernize statistics and data science courses regularly point to using “real” data. The National Academies Report on Data Science for Undergraduates (see previous blog post at: https://teachdatascience.com/nasem/) reports Data Management &amp;amp; Curation as a core part of data acumen. Indeed, they recognize data provenance to be a key skill which is “important for all students in [a] data science program.</description>
+    </item>
+    
+    <item>
+      <title>Data Science for Undergraduates</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/05/27/nasem/</link>
+      <pubDate>Sun, 27 May 2018 21:13:14 -0500</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/05/27/nasem/</guid>
+      <description>Data Science for UndergraduatesAs the first entry in this blog, we thought it would be appropriate to begin with the 2018 consensus report “Data Science for Undergraduates: Opportunities and Options”. Nick was a co-author of this National Academies Report and it provides an accessible overview of undergraduate data science courses and programs. Co-chairs of the committee were Laura Haas (University of Massachusetts/Amherst, https://www.cics.umass.edu/faculty/directory/haas-laura) and Al Hero (University of Michigan, https://hero.</description>
+    </item>
+    
+    <item>
+      <title>Introduction: A summer of data science education</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/05/21/intro/</link>
+      <pubDate>Mon, 21 May 2018 21:13:14 -0500</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/05/21/intro/</guid>
+      <description>Why another Data Science Education blog?This is an exciting time to be teaching students how to extract meaning from data. Amidst the flood of information available in almost all domains there have been a flourishing of powerful, open-source tools to help with the process. For instructors, the many changes can be hard to keep up with. In this blog, we’re hoping to create a roadmap for faculty development that will ease the learning curve and help busy people incorporate new tools and approaches into their teaching.</description>
+    </item>
     
     <item>
       <title>What is Hugo?</title>
@@ -22,28 +69,6 @@
       <guid>https://dazzling-lichterman-6802d7.netlify.com/2016/04/24/what-is-hugo/</guid>
       <description>Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike other systems which dynamically build a page every time a visitor requests one, Hugo does the building when you create your content. Since websites are viewed far more often than they are edited, Hugo is optimized for website viewing while providing a great writing experience.
 Sites built with Hugo are extremely fast and very secure.</description>
-    </item>
-    
-    <item>
-      <title>Introduction</title>
-      <link>https://dazzling-lichterman-6802d7.netlify.com/2016/04/21/introduction/</link>
-      <pubDate>Thu, 21 Apr 2016 02:50:28 +0200</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>https://dazzling-lichterman-6802d7.netlify.com/2016/04/21/introduction/</guid>
-      <description>Hugo is written in Go with support for multiple platforms.
-The latest release can be found at Hugo Releases. We currently provide pre-built binaries for &amp;nbsp;Windows, &amp;nbsp;Linux, &amp;nbsp;FreeBSD and &amp;nbsp;OS&amp;nbsp;X (Darwin) for x64, i386 and ARM architectures.
-Hugo may also be compiled from source wherever the Go compiler tool chain can run, e.g. for other operating systems including DragonFly BSD, OpenBSD, Plan&amp;nbsp;9 and Solaris. See http://golang.org/doc/install/source for the full set of supported combinations of target operating systems and compilation architectures.</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>https://dazzling-lichterman-6802d7.netlify.com/2015/07/23/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>https://dazzling-lichterman-6802d7.netlify.com/2015/07/23/2015-07-23-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
   </channel>

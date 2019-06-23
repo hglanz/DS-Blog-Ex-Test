@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>workflow on Teach Data Science</title>
+    <link>https://dazzling-lichterman-6802d7.netlify.com/tags/workflow/</link>
+    <description>Recent content in workflow on Teach Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2019 Copyright Teach Data Science</copyright>
+    <lastBuildDate>Tue, 29 May 2018 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="https://dazzling-lichterman-6802d7.netlify.com/tags/workflow/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Started With R Markdown</title>
+      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/05/29/rmarkdown/</link>
+      <pubDate>Tue, 29 May 2018 21:13:14 -0500</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/05/29/rmarkdown/</guid>
+      <description>What is R Markdown?Straight from RStudio’s wonderful tutorial, R Markdown is an authoring framework for data science. An R Markdown file is a plain text file with three types of content: code chunks to run, text to display, and metadata to help govern the R Markdown build process. Put simply, R Markdown is an exciting new reporting medium that seamlessly integrates executable code and expository text.
+By including data work, code, and analysis narrative into a single document, R Markdown provides a fully reproducible vehicle for data science projects!</description>
+    </item>
+    
+  </channel>
+</rss>
