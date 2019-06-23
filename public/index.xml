@@ -53,15 +53,6 @@ By including data work, code, and analysis narrative into a single document, R M
     </item>
     
     <item>
-      <title>Ingesting Data</title>
-      <link>https://dazzling-lichterman-6802d7.netlify.com/2018/05/28/ingestingdata.utf8/</link>
-      <pubDate>Mon, 28 May 2018 21:13:14 -0500</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/05/28/ingestingdata.utf8/</guid>
-      <description>Why use data from outside sources? The world is awash in data, and whatever else we teach in a data science curriculum, data must be at the center. Calls to modernize statistics and data science courses regularly point to using &amp;laquo;real&amp;raquo; data. The National Academies Report on Data Science for Undergraduates (see previous blog post at: https://teachdatascience.com/nasem/) reports Data Management &amp;amp; Curation as a core part of data acumen. Indeed, they recognize data provenance to be a key skill which is &amp;laquo;important for all students in [a] data science program.</description>
-    </item>
-    
-    <item>
       <title>Data Science for Undergraduates</title>
       <link>https://dazzling-lichterman-6802d7.netlify.com/2018/05/27/nasem/</link>
       <pubDate>Sun, 27 May 2018 21:13:14 -0500</pubDate>
