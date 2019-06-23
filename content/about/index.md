@@ -1,7 +1,6 @@
 +++
 date = "2019-03-29"
 draft = false
-title =  "About"
 +++
 
 
