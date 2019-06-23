@@ -161,7 +161,7 @@
     hype transparency embarrassingly parallel
 flow chart, send out 100 tasks, bring back together
 Hana’s example (around 30min)
-library(parallel)P &lt;- detectCores(logical=FALSE)P## [1] 4cl &lt;- makeCluster(P)cl## socket cluster with 4 nodes on host &#39;localhost&#39;cl[[1]]## node of a socket cluster on host &#39;localhost&#39; with pid 1720stopCluster(cl)cl[[1]]## Error in summary.connection(connection): invalid connectionspark: distributed computing
+library(parallel)P &lt;- detectCores(logical=FALSE)P## [1] 4cl &lt;- makeCluster(P)cl## socket cluster with 4 nodes on host &#39;localhost&#39;cl[[1]]## node of a socket cluster on host &#39;localhost&#39; with pid 8444stopCluster(cl)cl[[1]]## Error in summary.connection(connection): invalid connectionspark: distributed computing
 a brief mention of parallel computation to do embarassingly parallel things (simulation study?
   
 
