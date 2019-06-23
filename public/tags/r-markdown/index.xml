@@ -6,8 +6,6 @@
     <description>Recent content in R Markdown on Teach Data Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>yourname@example.com (yourname)</managingEditor>
-    <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2019 Copyright Teach Data Science</copyright>
     <lastBuildDate>Wed, 30 May 2018 21:13:14 -0500</lastBuildDate>
     
@@ -18,7 +16,7 @@
       <title>Projects in RStudio</title>
       <link>https://dazzling-lichterman-6802d7.netlify.com/2018/05/30/projects/</link>
       <pubDate>Wed, 30 May 2018 21:13:14 -0500</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      
       <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/05/30/projects/</guid>
       <description>What are Projects?RStudio Projects are a mechanism for keeping all the files associated with a project together in one place – data, R scripts, results, figures, reports, etc. Projects are built in to the RStudio IDE, and for good reproducible workflow, all projects should start by creating a Project.
 Why RStudio?It goes almost without saying that as a group we have moved completely to the RStudio interface to R.</description>
@@ -28,7 +26,7 @@
       <title>Getting Started With R Markdown</title>
       <link>https://dazzling-lichterman-6802d7.netlify.com/2018/05/29/rmarkdown/</link>
       <pubDate>Tue, 29 May 2018 21:13:14 -0500</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      
       <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/05/29/rmarkdown/</guid>
       <description>What is R Markdown?Straight from RStudio’s wonderful tutorial, R Markdown is an authoring framework for data science. An R Markdown file is a plain text file with three types of content: code chunks to run, text to display, and metadata to help govern the R Markdown build process. Put simply, R Markdown is an exciting new reporting medium that seamlessly integrates executable code and expository text.
 By including data work, code, and analysis narrative into a single document, R Markdown provides a fully reproducible vehicle for data science projects!</description>
@@ -38,7 +36,7 @@ By including data work, code, and analysis narrative into a single document, R M
       <title>Ingesting Data</title>
       <link>https://dazzling-lichterman-6802d7.netlify.com/2018/05/28/ingestingdata/</link>
       <pubDate>Mon, 28 May 2018 21:13:14 -0500</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      
       <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/05/28/ingestingdata/</guid>
       <description>Why use data from outside sources?The world is awash in data, and whatever else we teach in a data science curriculum, data must be at the center. Calls to modernize statistics and data science courses regularly point to using “real” data. The National Academies Report on Data Science for Undergraduates (see previous blog post at: https://teachdatascience.com/nasem/) reports Data Management &amp;amp; Curation as a core part of data acumen. Indeed, they recognize data provenance to be a key skill which is “important for all students in [a] data science program.</description>
     </item>
@@ -47,7 +45,7 @@ By including data work, code, and analysis narrative into a single document, R M
       <title>Data Science for Undergraduates</title>
       <link>https://dazzling-lichterman-6802d7.netlify.com/2018/05/27/nasem/</link>
       <pubDate>Sun, 27 May 2018 21:13:14 -0500</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      
       <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/05/27/nasem/</guid>
       <description>Data Science for UndergraduatesAs the first entry in this blog, we thought it would be appropriate to begin with the 2018 consensus report “Data Science for Undergraduates: Opportunities and Options”. Nick was a co-author of this National Academies Report and it provides an accessible overview of undergraduate data science courses and programs. Co-chairs of the committee were Laura Haas (University of Massachusetts/Amherst, https://www.cics.umass.edu/faculty/directory/haas-laura) and Al Hero (University of Michigan, https://hero.</description>
     </item>

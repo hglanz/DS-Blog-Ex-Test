@@ -6,8 +6,6 @@
     <description>Recent content in Tags on Teach Data Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>yourname@example.com (yourname)</managingEditor>
-    <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2019 Copyright Teach Data Science</copyright>
     <lastBuildDate>Wed, 30 May 2018 21:13:14 -0500</lastBuildDate>
     
@@ -18,7 +16,7 @@
       <title>R Markdown</title>
       <link>https://dazzling-lichterman-6802d7.netlify.com/tags/r-markdown/</link>
       <pubDate>Wed, 30 May 2018 21:13:14 -0500</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      
       <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/r-markdown/</guid>
       <description></description>
     </item>
@@ -27,7 +25,7 @@
       <title>R Projects</title>
       <link>https://dazzling-lichterman-6802d7.netlify.com/tags/r-projects/</link>
       <pubDate>Wed, 30 May 2018 21:13:14 -0500</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      
       <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/r-projects/</guid>
       <description></description>
     </item>
@@ -36,7 +34,7 @@
       <title>workflow</title>
       <link>https://dazzling-lichterman-6802d7.netlify.com/tags/workflow/</link>
       <pubDate>Tue, 29 May 2018 21:13:14 -0500</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      
       <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/workflow/</guid>
       <description></description>
     </item>
@@ -45,7 +43,7 @@
       <title>wrangling</title>
       <link>https://dazzling-lichterman-6802d7.netlify.com/tags/wrangling/</link>
       <pubDate>Mon, 28 May 2018 21:13:14 -0500</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      
       <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/wrangling/</guid>
       <description></description>
     </item>
@@ -54,7 +52,7 @@
       <title>plot</title>
       <link>https://dazzling-lichterman-6802d7.netlify.com/tags/plot/</link>
       <pubDate>Sun, 27 May 2018 21:13:14 -0500</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      
       <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/plot/</guid>
       <description></description>
     </item>
@@ -63,7 +61,7 @@
       <title>regression</title>
       <link>https://dazzling-lichterman-6802d7.netlify.com/tags/regression/</link>
       <pubDate>Sun, 27 May 2018 21:13:14 -0500</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      
       <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/regression/</guid>
       <description></description>
     </item>
@@ -72,7 +70,7 @@
       <title>R Studio</title>
       <link>https://dazzling-lichterman-6802d7.netlify.com/tags/r-studio/</link>
       <pubDate>Mon, 21 May 2018 21:13:14 -0500</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      
       <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/r-studio/</guid>
       <description></description>
     </item>
@@ -81,7 +79,7 @@
       <title>education</title>
       <link>https://dazzling-lichterman-6802d7.netlify.com/tags/education/</link>
       <pubDate>Mon, 21 May 2018 21:13:14 -0500</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      
       <guid>https://dazzling-lichterman-6802d7.netlify.com/tags/education/</guid>
       <description></description>
     </item>

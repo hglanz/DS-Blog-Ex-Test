@@ -40,8 +40,8 @@ tag = "tags"
 topic = "topics"
 
 [author]
-name = "yourname"
-email = "yourname@example.com"
+name = ""
+email = ""
 
 #
 # All parameters below here are optional and can be mixed and matched.
@@ -76,7 +76,7 @@ bootswatchtheme = "flatly"
 # menu for changing language. This changes languages with js and stores the choice with the help of JavaScript in a Cookie. Then the path is rewritten with pathnamereplace.js. The name of the md files needs to have the same name for each language abbreviation to work correctly. Example: showcase.en.md and showcase.sv.md. It only works if DefaultContentLanguageInSubdir = true
 switchlang = false
 # You can use markdown here.
-BrandImage = "https://github.com/hglanz/DS-Blog-Ex-Test/blob/master/teachdslogosnip.png" #top header brand image.
+BrandImage = "teachdslogosnip.png" #top header brand image.
 brand = "Teach Data Science" # brand image alt text.
 topline = "A roadmap to recent developments in teaching data science"
 footline = "Made with [Hugo](https://gohugo.io/). Themed by [Bootstrap](https://github.com/appernetic/hugo-bootstrap-premium). Deployed to [Netlify](https://www.netlify.com/). Designed and written in California and Massachusetts."

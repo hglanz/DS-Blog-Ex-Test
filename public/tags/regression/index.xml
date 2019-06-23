@@ -6,8 +6,6 @@
     <description>Recent content in regression on Teach Data Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>yourname@example.com (yourname)</managingEditor>
-    <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2019 Copyright Teach Data Science</copyright>
     <lastBuildDate>Sun, 27 May 2018 21:13:14 -0500</lastBuildDate>
     
@@ -18,7 +16,7 @@
       <title>Data Science for Undergraduates</title>
       <link>https://dazzling-lichterman-6802d7.netlify.com/2018/05/27/nasem/</link>
       <pubDate>Sun, 27 May 2018 21:13:14 -0500</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      
       <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/05/27/nasem/</guid>
       <description>Data Science for UndergraduatesAs the first entry in this blog, we thought it would be appropriate to begin with the 2018 consensus report “Data Science for Undergraduates: Opportunities and Options”. Nick was a co-author of this National Academies Report and it provides an accessible overview of undergraduate data science courses and programs. Co-chairs of the committee were Laura Haas (University of Massachusetts/Amherst, https://www.cics.umass.edu/faculty/directory/haas-laura) and Al Hero (University of Michigan, https://hero.</description>
     </item>

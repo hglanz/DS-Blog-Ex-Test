@@ -6,8 +6,6 @@
     <description>Recent content in education on Teach Data Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>yourname@example.com (yourname)</managingEditor>
-    <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2019 Copyright Teach Data Science</copyright>
     <lastBuildDate>Mon, 21 May 2018 21:13:14 -0500</lastBuildDate>
     
@@ -18,7 +16,7 @@
       <title>Introduction: A summer of data science education</title>
       <link>https://dazzling-lichterman-6802d7.netlify.com/2018/05/21/intro/</link>
       <pubDate>Mon, 21 May 2018 21:13:14 -0500</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      
       <guid>https://dazzling-lichterman-6802d7.netlify.com/2018/05/21/intro/</guid>
       <description>Why another Data Science Education blog?This is an exciting time to be teaching students how to extract meaning from data. Amidst the flood of information available in almost all domains there have been a flourishing of powerful, open-source tools to help with the process. For instructors, the many changes can be hard to keep up with. In this blog, we’re hoping to create a roadmap for faculty development that will ease the learning curve and help busy people incorporate new tools and approaches into their teaching.</description>
     </item>

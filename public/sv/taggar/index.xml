@@ -6,8 +6,6 @@
     <description>Recent content in Taggar on Min blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv</language>
-    <managingEditor>yourname@example.com (yourname)</managingEditor>
-    <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2016 Alla rättigheter</copyright>
     
 	<atom:link href="https://dazzling-lichterman-6802d7.netlify.com/sv/taggar/index.xml" rel="self" type="application/rss+xml" />
